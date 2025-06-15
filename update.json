@@ -1,12 +1,1 @@
-{
-  "version":"v0.1.15",
-  "minimum_active_version":"v0.1.13",
-  "notes":"Fix Bugs",
-  "pub_date":"2025-05-27T20:39:00Z",
-  "platforms":{
-    "windows-x86_64":{
-      "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS0JrNG1FZGNOTW5naEZ1SFZjM3RVOTlZNDRsZ3RST3lxbFNTNlZvNHJCTnR5L290c2w4bmR5OTJFTHdOM1pBeHpSNlRkYW5WMWtCbUJnVk1TeUNITWd4M0REN1NTcXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MzY1MTgzCWZpbGU6Vmlucm9nXzAuMS4xNF94NjRfZW4tVVMubXNpCjVYMDB2TnhSQm44TkZ3VkpLMERrcU9oVVJEdG1PcmpSTmJRMGsya0NWWW9qdHg5SEJZd1lMandPdmpZQXljZE5weTh3VXZpTmRkdmhiTEdjLzYwOUFBPT0K",
-      "url":"https:\/\/dl.vinrog.com\/files\/Vinrog_0.1.14_x64_en-US.msi"
-    }
-  }
-}
+{"title":"Vinrog","version":"v0.1.15","minimum_active_version":"v0.1.14","notes":"Fix Connect to App","pub_date":"2025-06-15T23:46:00Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS0JrNG1FZGNOTXRFN3lrUGY1WFB2S2tYUnNHaFJia0xDSDA5ZyszRmd4NTJ0TDl5bDhJMnYvUGw2SUxjbElNWnNabm0vTjNsaDlzNmhTNHoyQ2N0dU1QQURua0E1NFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwMDE4MjQyCWZpbGU6Vmlucm9nXzAuMS4xNV94NjRfZW4tVVMubXNpCmQzdUIvQjFFbThONjFpaUNhdnBwc2t0U3I3Q0d0R0lGZTlqWmd6b2p3aEFTTUxGSzEyOVJGN0ZHOWFwVi9HTFI0Qm5hTHFUUkdjQ0ZOaVkvc0RGV0FRPT0K","url":"https:\/\/dl.vinrog.com\/files\/Vinrog_0.1.15_x64_en-US.msi"}}}
