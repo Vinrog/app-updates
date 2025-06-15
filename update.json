@@ -1,0 +1,12 @@
+{
+  "version":"v0.1.14",
+  "minimum_active_version":"v0.1.10",
+  "notes":"Fix Bugs",
+  "pub_date":"2025-05-27T20:39:00Z",
+  "platforms":{
+    "windows-x86_64":{
+      "signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS0JrNG1FZGNOTW5naEZ1SFZjM3RVOTlZNDRsZ3RST3lxbFNTNlZvNHJCTnR5L290c2w4bmR5OTJFTHdOM1pBeHpSNlRkYW5WMWtCbUJnVk1TeUNITWd4M0REN1NTcXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4MzY1MTgzCWZpbGU6Vmlucm9nXzAuMS4xNF94NjRfZW4tVVMubXNpCjVYMDB2TnhSQm44TkZ3VkpLMERrcU9oVVJEdG1PcmpSTmJRMGsya0NWWW9qdHg5SEJZd1lMandPdmpZQXljZE5weTh3VXZpTmRkdmhiTEdjLzYwOUFBPT0K",
+      "url":"https:\/\/dl.vinrog.com\/files\/Vinrog_0.1.14_x64_en-US.msi"
+    }
+  }
+}
