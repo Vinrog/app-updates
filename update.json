@@ -1,6 +1,6 @@
 {
-  "version":"v0.1.14",
-  "minimum_active_version":"v0.1.10",
+  "version":"v0.1.15",
+  "minimum_active_version":"v0.1.13",
   "notes":"Fix Bugs",
   "pub_date":"2025-05-27T20:39:00Z",
   "platforms":{
